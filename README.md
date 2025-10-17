@@ -17,7 +17,7 @@ Process
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Created an account on Proton VPN website
 - Downloaded the application
-- Connected to VPN
+- Connected to VPN on my local computer
 
 <img width="989" height="644" alt="image" src="https://github.com/user-attachments/assets/42486eb2-ac15-4f1c-8063-faeff3eec5e1" />
 
