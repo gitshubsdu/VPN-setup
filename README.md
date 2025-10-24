@@ -11,6 +11,24 @@ This took me to another page (photo below)
 - Go to downloads folder within file explorer, click to highlight then right click and "run as administrator"
 <img width="1123" height="627" alt="image" src="https://github.com/user-attachments/assets/3123cc4d-b1a3-4847-a856-af59af948c29" />
 
+- Oracle VirtualBox 7.1.12 Setup box will pop up then click next
+<img width="493" height="391" alt="image" src="https://github.com/user-attachments/assets/fc21e5fd-f195-4b45-a236-6ebe60e721fc" />
+- Accept the Terms in the License Agreement then click next
+<img width="490" height="389" alt="image" src="https://github.com/user-attachments/assets/9e05ec5f-4179-4136-ba70-7656e0b392db" />
+- I did not make any changes on the screenshot below then clicked next
+<img width="493" height="387" alt="image" src="https://github.com/user-attachments/assets/dfc695e5-76cd-4033-9e61-e82ab53f09a7" />
+- Select "yes"
+<img width="489" height="385" alt="image" src="https://github.com/user-attachments/assets/a38c3d92-2e0a-4f4a-ba86-c5ca87a20387" />
+- Select "yes"
+<img width="490" height="391" alt="image" src="https://github.com/user-attachments/assets/58dc2dc5-ab20-4725-9fbd-cd7f6313a951" />
+- I left all boxes checked and clicked next
+<img width="490" height="388" alt="image" src="https://github.com/user-attachments/assets/5336c1e3-83a5-476b-a019-739ab9ad0e0e" />
+- Click "install"
+<img width="490" height="384" alt="image" src="https://github.com/user-attachments/assets/a4605785-d336-4a2d-a334-c620d91a26e2" />
+
+
+
+
 VPN setup through Virtual Box
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is my lab for setting up a VPN on Virtual Box
