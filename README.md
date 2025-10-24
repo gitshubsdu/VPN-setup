@@ -1,3 +1,12 @@
+Installing Virtual Box
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Went to https://www.oracle.com/virtualization/virtualbox/
+
+<img width="2376" height="1101" alt="image" src="https://github.com/user-attachments/assets/85527c11-e6f5-46cc-a95f-b21a6c5d574a" />
+
+
+
+
 VPN setup through Virtual Box
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is my lab for setting up a VPN on Virtual Box
