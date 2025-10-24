@@ -1,11 +1,15 @@
-Installing Virtual Box
+Installing Virtual Box (oracle)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Went to https://www.oracle.com/virtualization/virtualbox/
-
+- Downloaded Oracle Virtual Box
 <img width="2376" height="1101" alt="image" src="https://github.com/user-attachments/assets/85527c11-e6f5-46cc-a95f-b21a6c5d574a" />
 
+This took me to another page (photo below)
+- Selected the "Windows Installer" 64-bit
+<img width="1596" height="1270" alt="image" src="https://github.com/user-attachments/assets/423e5c2a-15a1-4504-bed0-25fda0b79cb9" />
 
-
+- Go to downloads folder within file explorer, click to highlight then right click and "run as administrator"
+<img width="1123" height="627" alt="image" src="https://github.com/user-attachments/assets/3123cc4d-b1a3-4847-a856-af59af948c29" />
 
 VPN setup through Virtual Box
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
