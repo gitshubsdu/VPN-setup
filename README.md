@@ -32,6 +32,10 @@ This took me to another page (photo below)
 - Click "install"
 <img width="490" height="384" alt="image" src="https://github.com/user-attachments/assets/a4605785-d336-4a2d-a334-c620d91a26e2" />
 
+- Click "finish"
+<img width="490" height="386" alt="image" src="https://github.com/user-attachments/assets/8534d522-4cf3-4fd8-8245-3449f4ddfe45" />
+
+
 
 
 
