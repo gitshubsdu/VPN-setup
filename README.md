@@ -44,12 +44,14 @@ Installing Windows 11 Disk Image (ISO)
 <img width="951" height="1028" alt="image" src="https://github.com/user-attachments/assets/473ec54a-74d1-4674-abf6-d0abb3727765" />
 
 
-
+- Drop down to select Windows 11 (multi-edition ISO for x64 devices)
 - Click confirm under "Download Windows 11 Disk Image (ISO) for x64 devices"
-- Select "Windows 11 (multi-edition ISO for Arm64)"
-- Click on Download Now
-- Select your language
-- Then confirm
+- Then select product language, I used "English (United States) for my example.
+<img width="931" height="706" alt="image" src="https://github.com/user-attachments/assets/16f2fe5f-45cf-437d-996a-7686a9ecd7d6" />
+- Then Confirm
+
+<img width="927" height="484" alt="image" src="https://github.com/user-attachments/assets/b31dca5f-9312-4d4d-93d4-dd019d316a05" />
+- Click 64-bit Download
 
   <img width="765" height="164" alt="image" src="https://github.com/user-attachments/assets/9f82e248-cb4e-4eda-8c48-7fb41359d21b" />
 
