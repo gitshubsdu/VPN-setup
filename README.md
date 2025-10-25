@@ -40,7 +40,7 @@ This took me to another page (photo below)
 Installing Windows 11 Disk Image (ISO)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Next will be to download windows 11 on our virtual machine.
-- Navigate to https://www.microsoft.com/en-us/software-download/windows11](https://www.microsoft.com/en-us/software-download/windows11arm64)
+- Navigate to https://www.microsoft.com/en-us/software-download/windows11arm64)
 <img width="2063" height="1215" alt="image" src="https://github.com/user-attachments/assets/4fcb442a-02fe-4b9a-9aa1-7de802f3425c" />
 
 - Drop down menu under "Download Windows 11 Disk Image (ISO) for Arm-based PCs"
