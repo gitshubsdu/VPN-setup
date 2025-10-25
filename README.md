@@ -37,6 +37,21 @@ This took me to another page (photo below)
 <img width="490" height="386" alt="image" src="https://github.com/user-attachments/assets/8534d522-4cf3-4fd8-8245-3449f4ddfe45" />
 
 
+Installing Windows 11 Disk Image (ISO)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Next will be to download windows 11 on our virtual machine.
+- Navigate to https://www.microsoft.com/en-us/software-download/windows11](https://www.microsoft.com/en-us/software-download/windows11arm64)
+<img width="2063" height="1215" alt="image" src="https://github.com/user-attachments/assets/4fcb442a-02fe-4b9a-9aa1-7de802f3425c" />
+
+- Drop down menu under "Download Windows 11 Disk Image (ISO) for Arm-based PCs"
+- Select "Windows 11 (multi-edition ISO for Arm64)"
+- Click on Download Now
+- Select your language
+- Then confirm
+
+  <img width="765" height="164" alt="image" src="https://github.com/user-attachments/assets/9f82e248-cb4e-4eda-8c48-7fb41359d21b" />
+
+- Select Download now
 
 
 
@@ -46,13 +61,14 @@ This is my lab for setting up a VPN on Virtual Box
 
 Enviroments and Technologies Used
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--  Virtual Box (virtual machine)
+-  Virtual Box v7.1.12(virtual machine)
+-  Windows 11 Disk Image (ISO) x64
 -  VPN (Proton VPN)
   
 
 Operating Systems Used
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Windows 10 (22H2)
+- Windows 11 (25H2)
 
   
 Process
