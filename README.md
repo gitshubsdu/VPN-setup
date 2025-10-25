@@ -68,7 +68,7 @@ Open Virtual box applicaiton
 <img width="753" height="449" alt="image" src="https://github.com/user-attachments/assets/0ef12113-cd5d-46a6-8f4e-ef490070c1ae" />
 
 - Name your VM
-- Search for your downloade ISO image
+- Search for your downloaded ISO image
 - Then hit Next
 
 <img width="761" height="455" alt="image" src="https://github.com/user-attachments/assets/8552bac7-0598-4bd4-9bd9-5933e90bed6e" />
@@ -82,6 +82,7 @@ Open Virtual box applicaiton
 - You will apply the same rule to the Virtual hard disk, then next
 
 <img width="755" height="455" alt="image" src="https://github.com/user-attachments/assets/ef7aa256-6729-4eca-90ae-d2171a365384" />
+
 - click Finish
 
 <img width="1014" height="839" alt="image" src="https://github.com/user-attachments/assets/54f5eed9-fcab-4e63-9297-e6fa408c74d0" />
@@ -90,7 +91,7 @@ Open Virtual box applicaiton
 
 <img width="1024" height="833" alt="image" src="https://github.com/user-attachments/assets/e5901dd7-a472-43af-bb9c-e70699ea309d" />
 
-- Wait for Windows 11 to finish installing
+- Wait for Windows 11 to finish installing. This will take a few minutes to complete
 
   
 VPN setup through Virtual Box
@@ -111,7 +112,9 @@ Operating Systems Used
   
 Process
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Created an account on Proton VPN website
+- Created an account on Proton VPN website <img width="1025" height="772" alt="image" src="https://github.com/user-attachments/assets/4513ca53-0079-404d-981e-ecf23ab0b8fe" />
+
+
 - Downloaded the application
 - Connected to VPN on my local computer
 
