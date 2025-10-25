@@ -105,9 +105,13 @@ Open Virtual box applicaiton
 - Download Proton VPN for windows
 - https://protonvpn.com/download-windows
 
+<img width="947" height="1027" alt="image" src="https://github.com/user-attachments/assets/9abf38be-b482-4416-b676-a039c158939f" />
+
+Then launch the application from the download history or file explorer
+
 <img width="1021" height="764" alt="image" src="https://github.com/user-attachments/assets/65fbf6e5-ec30-481a-9b31-beed90d039f5" />
 
-- Then launch the application from the download history
+- I choose yes
 
 <img width="1023" height="769" alt="image" src="https://github.com/user-attachments/assets/775a34e6-fff4-4a3e-aa5a-72f02ae437db" />
 
