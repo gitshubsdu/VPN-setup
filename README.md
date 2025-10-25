@@ -62,6 +62,7 @@ Open Virtual box applicaiton
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="1270" height="726" alt="image" src="https://github.com/user-attachments/assets/49c508b8-e559-4326-b791-2d2bd0143814" />
+
 - Click New
 
 <img width="753" height="449" alt="image" src="https://github.com/user-attachments/assets/0ef12113-cd5d-46a6-8f4e-ef490070c1ae" />
