@@ -96,12 +96,18 @@ Open Virtual box applicaiton
 <img width="1023" height="770" alt="image" src="https://github.com/user-attachments/assets/647005d4-28df-4754-949b-8bb7ee0d2cb9" />
 
 - Download Proton VPN for windows
+- https://protonvpn.com/download-windows
 
 <img width="1021" height="764" alt="image" src="https://github.com/user-attachments/assets/65fbf6e5-ec30-481a-9b31-beed90d039f5" />
 
 - Then launch the application from the download history
 
 <img width="1023" height="769" alt="image" src="https://github.com/user-attachments/assets/775a34e6-fff4-4a3e-aa5a-72f02ae437db" />
+
+<img width="1024" height="767" alt="image" src="https://github.com/user-attachments/assets/25674ee5-539e-4523-bc3f-756610922141" />
+
+Then install, I unchecked the first 3 boxes
+
 
 
 
