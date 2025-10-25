@@ -139,10 +139,11 @@ Enviroments and Technologies Used
 -  Virtual Box v7.1.12(virtual machine)
 -  Windows 11 Disk Image (ISO) x64
 -  VPN (Proton VPN)
-  
+
 
 Operating Systems Used
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Windows 11 (25H2)
+  
 
  
