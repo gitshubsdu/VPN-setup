@@ -39,26 +39,59 @@ This took me to another page (photo below)
 
 Installing Windows 11 Disk Image (ISO)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Next, download windows 11 installartion media on the virtual machine.
+- Next, download windows 11 installation media on the virtual machine.
 - Navigate to https://www.microsoft.com/en-us/software-download/windows11
+  
 <img width="951" height="1028" alt="image" src="https://github.com/user-attachments/assets/473ec54a-74d1-4674-abf6-d0abb3727765" />
 
 
 - Drop down to select Windows 11 (multi-edition ISO for x64 devices)
 - Click confirm under "Download Windows 11 Disk Image (ISO) for x64 devices"
-- Then select product language, I used "English (United States) for my example.
+
 <img width="931" height="706" alt="image" src="https://github.com/user-attachments/assets/16f2fe5f-45cf-437d-996a-7686a9ecd7d6" />
+
+- Then select product language, I used "English (United States) for my example.
 - Then Confirm
 
 <img width="927" height="484" alt="image" src="https://github.com/user-attachments/assets/b31dca5f-9312-4d4d-93d4-dd019d316a05" />
+
 - Click 64-bit Download
 
-  <img width="765" height="164" alt="image" src="https://github.com/user-attachments/assets/9f82e248-cb4e-4eda-8c48-7fb41359d21b" />
 
-- Select Download now
+Open Virtual box applicaiton
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="1270" height="726" alt="image" src="https://github.com/user-attachments/assets/49c508b8-e559-4326-b791-2d2bd0143814" />
+- Click New
 
+<img width="753" height="449" alt="image" src="https://github.com/user-attachments/assets/0ef12113-cd5d-46a6-8f4e-ef490070c1ae" />
 
+- Name your VM
+- Search for your downloade ISO image
+- Then hit Next
+
+<img width="761" height="455" alt="image" src="https://github.com/user-attachments/assets/8552bac7-0598-4bd4-9bd9-5933e90bed6e" />
+
+- Create a username and password, then click Next
+
+- Based on your PC specs, select the base memory and processer amount, then click Next
+
+<img width="759" height="457" alt="image" src="https://github.com/user-attachments/assets/feb0fec6-8ed1-4a14-8935-d50d3ad1392d" />
+
+- You will apply the same rule to the Virtual hard disk, then next
+
+<img width="755" height="455" alt="image" src="https://github.com/user-attachments/assets/ef7aa256-6729-4eca-90ae-d2171a365384" />
+- click Finish
+
+<img width="1014" height="839" alt="image" src="https://github.com/user-attachments/assets/54f5eed9-fcab-4e63-9297-e6fa408c74d0" />
+
+- Click "I dont have a product key"
+
+<img width="1024" height="833" alt="image" src="https://github.com/user-attachments/assets/e5901dd7-a472-43af-bb9c-e70699ea309d" />
+
+- Wait for Windows 11 to finish installing
+
+  
 VPN setup through Virtual Box
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is my lab for setting up a VPN on Virtual Box
