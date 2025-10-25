@@ -93,7 +93,18 @@ Open Virtual box applicaiton
 
 - Wait for Windows 11 to finish installing. This will take a few minutes to complete
 
-  
+<img width="1023" height="770" alt="image" src="https://github.com/user-attachments/assets/647005d4-28df-4754-949b-8bb7ee0d2cb9" />
+
+- Download Proton VPN for windows
+
+<img width="1021" height="764" alt="image" src="https://github.com/user-attachments/assets/65fbf6e5-ec30-481a-9b31-beed90d039f5" />
+
+- Then launch the application from the download history
+
+<img width="1023" height="769" alt="image" src="https://github.com/user-attachments/assets/775a34e6-fff4-4a3e-aa5a-72f02ae437db" />
+
+
+
 VPN setup through Virtual Box
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is my lab for setting up a VPN on Virtual Box
