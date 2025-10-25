@@ -1,6 +1,6 @@
 VPN setup through Virtual Box
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- This is my lab for setting up a VPN on Virtual Box
+- This is my lab on setting up a Virtual machine and a VPN within it.
 
 Process
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -107,19 +107,23 @@ Open Virtual box applicaiton
 
 <img width="947" height="1027" alt="image" src="https://github.com/user-attachments/assets/9abf38be-b482-4416-b676-a039c158939f" />
 
-Then launch the application from the download history or file explorer
+- Then launch the application from the download history or file explorer
 
 <img width="1021" height="764" alt="image" src="https://github.com/user-attachments/assets/65fbf6e5-ec30-481a-9b31-beed90d039f5" />
 
-- I choose yes
+- I chose yes
 
 <img width="1023" height="769" alt="image" src="https://github.com/user-attachments/assets/775a34e6-fff4-4a3e-aa5a-72f02ae437db" />
+
+- Click Next
 
 <img width="1024" height="767" alt="image" src="https://github.com/user-attachments/assets/25674ee5-539e-4523-bc3f-756610922141" />
 
 - Then install, I unchecked the first 3 boxes
 
-- Launched Proton VPN and logged in, then connected to VPN
+- You will want to create a free account
+
+- Next launch the Proton VPN application, then connected to VPN
 
 <img width="1023" height="768" alt="image" src="https://github.com/user-attachments/assets/4d4852b0-4f60-431c-b6be-0eafb3ef5f73" />
 
@@ -127,7 +131,7 @@ Then launch the application from the download history or file explorer
 
 <img width="1023" height="766" alt="image" src="https://github.com/user-attachments/assets/9e1438d8-2249-4841-801c-fb32b0306dc5" />
 
-- I can see that my public IP address shows the VPN IP on my virtual machine
+- I can see that my public IP address matches the VPN IP on my virtual machine
   
 
 Enviroments and Technologies Used
