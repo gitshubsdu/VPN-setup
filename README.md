@@ -82,7 +82,7 @@ Open Virtual box applicaiton
 
 - Create a username and password, then click Next
 
-- Based on your PC specs, select the base memory and processer amount, then click Next
+- Based on your PC specs, select the base memory and processer amount (minimum 30GB), then click Next
 
 <img width="759" height="457" alt="image" src="https://github.com/user-attachments/assets/feb0fec6-8ed1-4a14-8935-d50d3ad1392d" />
 
@@ -137,8 +137,4 @@ Operating Systems Used
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Windows 11 (25H2)
 
-  
-Process
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+ 
