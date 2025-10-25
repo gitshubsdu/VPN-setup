@@ -8,7 +8,8 @@ This took me to another page (photo below)
 - Selected the "Windows Installer" 64-bit
 <img width="1596" height="1270" alt="image" src="https://github.com/user-attachments/assets/423e5c2a-15a1-4504-bed0-25fda0b79cb9" />
 
-- Go to downloads folder within file explorer, click to highlight then right click and "run as administrator"
+- Go to downloads folder within file explorer
+- Click to highlight virtual box application then right click and "run as administrator"
 <img width="1123" height="627" alt="image" src="https://github.com/user-attachments/assets/3123cc4d-b1a3-4847-a856-af59af948c29" />
 
 - Oracle VirtualBox 7.1.12 Setup box will pop up then click next
