@@ -1,5 +1,12 @@
-Installing Virtual Box (oracle)
+VPN setup through Virtual Box
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- This is my lab for setting up a VPN on Virtual Box
+
+Process
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Installing Virtual Box (oracle)
+
 Went to https://www.oracle.com/virtualization/virtualbox/
 - Downloaded Oracle Virtual Box
 <img width="2376" height="1101" alt="image" src="https://github.com/user-attachments/assets/85527c11-e6f5-46cc-a95f-b21a6c5d574a" />
@@ -106,14 +113,18 @@ Open Virtual box applicaiton
 
 <img width="1024" height="767" alt="image" src="https://github.com/user-attachments/assets/25674ee5-539e-4523-bc3f-756610922141" />
 
-Then install, I unchecked the first 3 boxes
+- Then install, I unchecked the first 3 boxes
 
+- Launched Proton VPN and logged in, then connected to VPN
 
+<img width="1023" height="768" alt="image" src="https://github.com/user-attachments/assets/4d4852b0-4f60-431c-b6be-0eafb3ef5f73" />
 
+- Did a search for my public IP address on https://whatismyipaddress.com/
 
-VPN setup through Virtual Box
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-This is my lab for setting up a VPN on Virtual Box
+<img width="1023" height="766" alt="image" src="https://github.com/user-attachments/assets/9e1438d8-2249-4841-801c-fb32b0306dc5" />
+
+- I can see that my public IP address shows the VPN IP on my virtual machine
+  
 
 Enviroments and Technologies Used
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -129,19 +140,5 @@ Operating Systems Used
   
 Process
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Created an account on Proton VPN website <img width="1025" height="772" alt="image" src="https://github.com/user-attachments/assets/4513ca53-0079-404d-981e-ecf23ab0b8fe" />
-
-
-- Downloaded the application
-- Connected to VPN on my local computer
-
-<img width="989" height="644" alt="image" src="https://github.com/user-attachments/assets/42486eb2-ac15-4f1c-8063-faeff3eec5e1" />
-
-
-- Lauched windows 10 VM through virtual box
-- Went to www.whatsmyip.org
-- Confirmed IP from VPN showed up on VM
-
-<img width="1021" height="842" alt="image" src="https://github.com/user-attachments/assets/694390a0-5a1b-49c9-9fb4-a173bda4fc0e" />
 
 
